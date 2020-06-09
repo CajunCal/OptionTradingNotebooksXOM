@@ -4,5 +4,6 @@ pandas
 scikit-learn
 scipy
 seaborn
+xgboost
 yfinance
 shap
