@@ -5,6 +5,7 @@ scikit-learn
 scipy
 seaborn
 shap
+statsmodels
 xgboost
 yfinance
 
