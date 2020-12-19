@@ -10,5 +10,6 @@ statsmodels
 xgboost
 catboost
 yfinance
+lightgbm
 
 
