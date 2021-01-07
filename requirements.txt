@@ -1,3 +1,4 @@
+lime
 matplotlib
 numpy
 pandas
